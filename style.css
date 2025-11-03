@@ -22,3 +22,20 @@ main {
 text-align: center;
 margin:  10px 0;
 }
+.artikujt img {
+border-radius: 12px;
+max-width: 320px;
+max-height: 300px;
+
+}
+
+article {
+    display: inline-block;
+margin: 10px;
+text-align: left;
+}
+.artikujt{
+    color: rgb(0, 0, 0);
+    background-color: rgb(93, 93, 93);
+     margin: -8px;
+}
