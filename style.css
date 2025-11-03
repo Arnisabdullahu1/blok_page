@@ -1,0 +1,24 @@
+.right-menu{
+float: right;
+
+}
+
+nav a{
+text-decoration: none;
+margin: 0 25px;
+color: black;
+
+}
+nav{
+    background-color: rgb(128, 128, 128);
+    margin: -7px;
+}
+
+main {
+    text-align: center;
+    color: rgb(65, 65, 65);
+}
+.search{
+text-align: center;
+margin:  10px 0;
+}
